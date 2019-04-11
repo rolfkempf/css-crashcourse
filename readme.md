@@ -20,6 +20,8 @@ This is a very basic crashcourse in CSS for developers.
   - ```div div div div div div div div div div``` = ```.my-class```
   - ```div div div div div div div div div div div``` > ```.my-class```
   - ```#x#x#x```
+  - Specificity calculator: https://specificity.keegan.st/
+  - https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 
 ## Using CSS
 
@@ -31,6 +33,13 @@ This is a very basic crashcourse in CSS for developers.
 - Flexbox: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox, https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - Grid: https://css-tricks.com/snippets/css/complete-guide-grid/
 
+## Concepts & Methodologies
+
+- BEM: http://getbem.com/introduction/
+- ITCSS: https://www.xfive.co/blog/itcss-scalable-maintainable-css-architecture/
+- utility-first CSS
+
+
 ## Using Frameworks
 
 - Bootstrap
@@ -38,7 +47,4 @@ This is a very basic crashcourse in CSS for developers.
 
 ### Links
 
-- https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-- https://specificity.keegan.st/
 - https://caniuse.com
-- 
