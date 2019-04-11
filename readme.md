@@ -1,6 +1,6 @@
 # CSS-Basics
 
-This is a crashcourse in CSS for developers.
+This is a very basic crashcourse in CSS for developers.
 
 ## Selectors
 
@@ -36,7 +36,7 @@ This is a crashcourse in CSS for developers.
 - Bootstrap
 - Tailwind
 
-###Links
+### Links
 
 - https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 - https://specificity.keegan.st/
