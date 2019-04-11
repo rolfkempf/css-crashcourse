@@ -1,0 +1,101 @@
+/* -------------------------------------------------------------------------------------------------------- */
+
+/* SELECTORS */
+
+/* html{
+    font-family: sans-serif;
+} */
+
+/* body{
+    background-color: #ddd;
+    padding: 1rem;
+} */
+
+/* h1, p{
+    color: blue;
+} */
+
+/* .styled{
+    background-color: aquamarine;
+    border: 1px solid #aaa;
+    margin: 10px auto;
+    width: 90%;
+    padding: 1rem;
+} */
+
+/* .styled h1{
+    color: rebeccapurple;
+}
+
+.styled p{
+    color: rebeccapurple;
+} */
+
+/* #super-headline{
+    background-color: green;
+    color: #fff;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px dashed white;
+    font-size: 4rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} */
+
+/* -------------------------------------------------------------------------------------------------------- */
+/* BOX & POSITION */
+
+/* .box {
+  display: inline-block;
+  display: block;
+  width: 250px;
+  height: 250px;
+  border: 1px solid #aaa;
+  padding: 100px;
+  margin: 50px;
+} */
+
+/* .box-position {
+  position: absolute;
+  background-color: #ddd;
+  left: 0;
+  top: 0;
+} */
+
+/* .box-position {
+    position: relative;
+} */
+
+/* .box-inside {
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  margin: 10px;
+  background-color: lightcoral;
+} */
+
+/* .box-inside {
+    position: absolute;
+    bottom:0;
+    right:0;
+  } */
+
+/* -------------------------------------------------------------------------------------------------------- */
+/* FLEXBOX */
+
+.flex {
+  display: flex;
+  /* flex-direction: row; */
+  /* flex-direction: column; */
+  /* width: 100vw; */
+  /* height: 100vh; */
+}
+
+.flex-element {
+  /* background-color: #ccc;
+  border: 1px solid #aaa;
+  padding: 1rem;
+  text-align: center;
+  flex: 1; */
+}
